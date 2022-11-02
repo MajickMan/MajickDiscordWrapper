@@ -1,0 +1,5 @@
+C:\Users\majickshadow\source\repos\MajickDiscordWrapper\bin\Debug\netstandard2.0\MajickDiscordWrapper.deps.json
+C:\Users\majickshadow\source\repos\MajickDiscordWrapper\bin\Debug\netstandard2.0\MajickDiscordWrapper.dll
+C:\Users\majickshadow\source\repos\MajickDiscordWrapper\obj\Debug\netstandard2.0\MajickDiscordWrapper.csprojAssemblyReference.cache
+C:\Users\majickshadow\source\repos\MajickDiscordWrapper\obj\Debug\netstandard2.0\MajickDiscordWrapper.AssemblyInfoInputs.cache
+C:\Users\majickshadow\source\repos\MajickDiscordWrapper\obj\Debug\netstandard2.0\MajickDiscordWrapper.AssemblyInfo.cs
